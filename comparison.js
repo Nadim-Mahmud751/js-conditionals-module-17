@@ -23,22 +23,11 @@
 // console.log(100 <= 10);
 
 
-//text
-let x = 5; if (x < 10) { x = x + 3; } else { x = x - 2; } console.log(x);
+// console.log(10 == 10.1);
 
+//----------------------------
+// console.log(10 != 10);
+console.log(10 !== '10');
 
-// let result = 10 < "5";
-// console.log(result);
-
-console.log(6 != 6);
-
-let score = 75;
-let grade;
-if (score >= 90) {
-  grade = "A";
-} else if (score >= 80) {
-  grade = "B";
-}
-console.log(grade);
 
 
